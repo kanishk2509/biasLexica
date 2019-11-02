@@ -12,12 +12,14 @@ For each of the 10 chosen bias words, the program will print out 100 most simila
 Output for each of the seed word will be saved in a csv file in directory `/datasets` with columns being `word` and `cosine distance`. 
 
 ## How to Execute
+From PyCharm (Recommended), simply execute the file 
+
+`calculate_bias_words.py`
+
+OR
+
+
 From the terminal, in 'src' directory, execute the command 
 
 `python calculate_bias_words.py`
 
-OR
-
-From PyCharm, simply execute the file 
-
-`calculate_bias_words.py`
