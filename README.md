@@ -23,3 +23,6 @@ From the terminal, in 'src' directory, execute the command
 
 `python calculate_bias_words.py`
 
+## News dump taken from Kaggle
+
+`https://www.kaggle.com/snapcrack/all-the-news/version/1#articlespart2.csv`
